@@ -1,0 +1,12 @@
+#################################
+### Created by SECRETARY CPSU ###
+###   Economic Crisis © 2021  ###
+#################################
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_dzivia_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/dzivia_album_art.dds"
+		noOfFrames = 2	
+	}	
+}

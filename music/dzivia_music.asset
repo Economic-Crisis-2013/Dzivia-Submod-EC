@@ -1,0 +1,66 @@
+#################################
+### Created by SECRETARY CPSU ###
+###   Economic Crisis © 2021  ###
+#################################
+
+
+music = {
+	name = "Dzivia_Dom"
+	file = "Dzivia_Dom_(Home).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Dzikaje_Palavannie"
+	file = "Dzivia_Dzikaje_Palavannie_(Wild_Hunt).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Imperivm"
+	file = "Dzivia_Imperivm.ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Karahody"
+	file = "Dzivia_Karahody_(Roundelays).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Kostki_Pad_Imchom"
+	file = "Dzivia_Kostki_Pad_Imchom_(Bones_Under_The_Moss).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Pamierlyja_Bozysca"
+	file = "Dzivia_Pamierlyja_Bozysca_(Dead_Deities).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Postaci"
+	file = "Dzivia_Postaci_(Shadows).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_spieu_Dazdzu"
+	file = "Dzivia_spieu_Dazdzu_(The_Rain_Song).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Svitannie"
+	file = "Dzivia_Svitannie_(The_Dawn).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Uzniasiennie"
+	file = "Dzivia_Uzniasiennie_(Ascension).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Vataha"
+	file = "Dzivia_Vataha(The_Pack).ogg"
+	volume = 0.95
+}
+music = {
+	name = "Dzivia_Voryva"
+	file = "Dzivia_Voryva_(Sleeping_Field).ogg"
+	volume = 0.95
+}

@@ -1,0 +1,126 @@
+music_station = "dzivia_album"
+#################################
+### Created by SECRETARY CPSU ###
+###   Economic Crisis © 2021  ###
+#################################
+
+music = {
+	song = "Dzivia_Dom"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Dzikaje_Palavannie"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Imperivm"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Karahody"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Kostki_Pad_Imchom"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Pamierlyja_Bozysca"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Postaci"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_spieu_Dazdzu"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Svitannie"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Uzniasiennie"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Vataha"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
+music = {
+	song = "Dzivia_Voryva"
+	chance = {
+		base = 1
+		modifier = {
+			factor = 20
+			original_tag = BLR
+		}		
+	}
+}
