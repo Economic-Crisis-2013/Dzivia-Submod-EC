@@ -15,6 +15,20 @@
 
 **Steam Workshop: **
 
-**Music:** https://dzivia.bandcamp.com/
+Made in Belarus
 
+**Dzivia:** 
+https://dzivia.bandcamp.com/ <br>
+https://www.instagram.com/dzivia/ <br>
+https://www.facebook.com/Dzivia/ <br>
+https://vk.com/dzivia <br>
 
+**Support Author (Dzivia)**<br>
+https://dzivia.bandcamp.com/ <br>
+https://www.patreon.com/arturdzivia <br>
+https://open.spotify.com/album/4t5RsOYWPykZKctIxej4FB <br>
+https://music.apple.com/by/album/rujnuj/1447055430 <br>
+
+**Composer** <br>
+https://arturmatveenko.com/ <br>
+https://www.instagram.com/arturdzivia/ <br>
