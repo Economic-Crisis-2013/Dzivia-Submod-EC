@@ -10,3 +10,4 @@ dependencies={
 }
 supported_version="1.10.4"
 path="mod/dzivia_submod_ec"
+picture="thumbnail.png"
