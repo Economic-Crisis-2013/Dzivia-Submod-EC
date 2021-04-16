@@ -1,5 +1,5 @@
 name="Economic Crisis: Dzivia music submod"
-version="1.10.4"
+version="1.0"
 tags={
 	"Sound"
 	"Music"
@@ -8,6 +8,6 @@ tags={
 dependencies={
 	"Hearts of Iron IV: Economic Crisis"
 }
-supported_version="1.10.4"
+supported_version="1.10.5"
 path="mod/dzivia_submod_ec"
 picture="thumbnail.png"
