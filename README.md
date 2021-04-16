@@ -12,26 +12,29 @@
  [![Youtube-EC](https://img.shields.io/badge/-Youtube--EC-c4302b?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/c/HeartsofIronIVEconomicCrisis2013)
  ![Version-Game](https://img.shields.io/badge/Version--Game--HOI4-1.10.4-green?style=flat-square)
 
+##### [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2456143039)
+##### [Download SudMod/Скачать сабмод](https://github.com/Economic-Crisis-2013/Dzivia-Submod-EC/releases)
+
 **NEED TO DLC - RADIO PACK**<br>
 ![image](https://cdn.cloudflare.steamstatic.com/steam/apps/1086481/header_292x136.jpg)
 
 
-**Steam Workshop: **
+___
 
-Made in Belarus
+### Made in Belarus
 
 **Dzivia:** <br>
-https://dzivia.bandcamp.com/ <br>
-https://www.instagram.com/dzivia/ <br>
-https://www.facebook.com/Dzivia/ <br>
-https://vk.com/dzivia <br>
+- https://dzivia.bandcamp.com/ <br>
+- https://www.instagram.com/dzivia/ <br>
+- https://www.facebook.com/Dzivia/ <br>
+- https://vk.com/dzivia <br>
 
 **Support Author (Dzivia)**<br>
-https://dzivia.bandcamp.com/ <br>
-https://www.patreon.com/arturdzivia <br>
-https://open.spotify.com/album/4t5RsOYWPykZKctIxej4FB <br>
-https://music.apple.com/by/album/rujnuj/1447055430 <br>
+- https://dzivia.bandcamp.com/ <br>
+- https://www.patreon.com/arturdzivia <br>
+- https://open.spotify.com/album/4t5RsOYWPykZKctIxej4FB <br>
+- https://music.apple.com/by/album/rujnuj/1447055430 <br>
 
 **Composer** <br>
-https://arturmatveenko.com/ <br>
-https://www.instagram.com/arturdzivia/ <br>
+- https://arturmatveenko.com/ <br>
+- https://www.instagram.com/arturdzivia/ <br>
